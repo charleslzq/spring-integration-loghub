@@ -6,7 +6,7 @@
 
     <groupId>com.github.charleslzq</groupId>
     <artifactId>spring-integration-loghub</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>spring-integration-loghub</name>
     <description>adapter of aliyun log service for spring integration
@@ -46,12 +46,12 @@
         <dependency>
             <groupId>com.github.charleslzq</groupId>
             <artifactId>spring-aliyun-loghub-producer</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.github.charleslzq</groupId>
             <artifactId>spring-aliyun-loghub-consumer</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.integration</groupId>
